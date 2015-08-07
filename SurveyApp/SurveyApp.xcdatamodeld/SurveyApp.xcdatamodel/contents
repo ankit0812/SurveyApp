@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14D136" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Survey" syncable="YES">
+        <attribute name="answer1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer31" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer32" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer33" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer34" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer35" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idNo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionNo1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionNo2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionNo3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionNo4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionNo5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionNo6" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Survey" positionX="-45" positionY="0" width="128" height="300"/>
+    </elements>
+</model>
